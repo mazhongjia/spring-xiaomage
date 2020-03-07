@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-xiaomage.iml" filepath="$PROJECT_DIR$/spring-xiaomage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinkinginspring/thinkinginspring.iml" filepath="$PROJECT_DIR$/thinkinginspring/thinkinginspring.iml" />
+    </modules>
+  </component>
+</project>
